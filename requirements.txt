@@ -2,12 +2,12 @@ langdetect
 urlextract
 captcha
 apscheduler
-httpx[http2]
+httpx
 ffmpeg-python
 opencv-python
 vanitas-antispam
-aiofiles>=0.6.0
-aiohttp[speedups]>=3.7.3
+aiofiles
+aiohttp
 tracemoepy
 lottie
 
@@ -55,3 +55,4 @@ uvloop
 # tts
 gtts
 mutagen
+feedparser
